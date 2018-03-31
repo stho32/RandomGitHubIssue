@@ -1,21 +1,15 @@
-# Using this template to set up a new project
+# Random GitHub Issue
 
-Use the template using on Mac/Linux:
+Basically a powershell core script that will choose some random github issues
+for you to work on.
 
-```
-git clone --depth 1 https://github.com/stho32/ProjectTemplate-Empty.git <your-project-dir>
-cd <your-project-dir>
-rm -rf .git/
-git init
-code .
-```
+Having said this they are not totally random. You can configure the scope
+of repositories you want to cover. Probably you wont to work on your own
+repositories, and maybe you want to work on some of other people. 
 
-# Project
+You can set these as preferences so its not totally random.
+But random enough if you like me some day sit at your computer and ask yourself:
+Hey, what to do with that nice rainy afternoon.
 
-See [requirements](Documentation/Requirements.md) for the instructions.
 
-The folder "Provided-Files" contains the files provided for the project.
 
-You might also be interested in my [notes](Documentation/Notes.md) where I share my thoughts about why I chose one way of solution over another. 
-
-And here you can find my [pomodoro-log](Documentation/Pomodoro-Log.md) for the project.
