@@ -39,4 +39,4 @@ function Test-RandomGitHubIssue
 }
 
 # Get-GitHub-Repositories "stho32"
-# Test-RandomGitHubIssue
+Test-RandomGitHubIssue
